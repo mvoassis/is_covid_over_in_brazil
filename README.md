@@ -16,8 +16,8 @@
 
 **Files**
 
-* Is_COVID_over_in_Brazil?.ipynb - Jupyter Notebook (english)
-* A_COVID_acabou_no_Brasil?.ipynb - Jupyter Notebook (pt-BR)
+* Is_COVID_over_in_Brazil?.ipynb - Jupyter Notebook (english) [Access](https://github.com/mvoassis/is_covid_over_in_brazil/blob/main/Is_COVID_over_in_Brazil%3F.ipynb) 
+* A_COVID_acabou_no_Brasil?.ipynb - Jupyter Notebook (pt-BR) [Access](https://github.com/mvoassis/is_covid_over_in_brazil/blob/main/A_COVID_acabou_no_Brasil%3F.ipynb)
 
 **Report + code**
 
@@ -53,8 +53,8 @@
 
 **Arquivos**
 
-* A_COVID_acabou_no_Brasil?.ipynb - Jupyter Notebook (pt-BR)
-* Is_COVID_over_in_Brazil?.ipynb - Jupyter Notebook (inglês)
+* A_COVID_acabou_no_Brasil?.ipynb - Jupyter Notebook (pt-BR) [Acesse](https://github.com/mvoassis/is_covid_over_in_brazil/blob/main/A_COVID_acabou_no_Brasil%3F.ipynb)
+* Is_COVID_over_in_Brazil?.ipynb - Jupyter Notebook (inglês) [Acesse](https://github.com/mvoassis/is_covid_over_in_brazil/blob/main/Is_COVID_over_in_Brazil%3F.ipynb) 
 
 **Relatório + código**
 
