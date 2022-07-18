@@ -9,7 +9,7 @@
 
 **Questions to answer:**
 
-1. People don't get infected anymore?
+1. Do people don't get infected anymore?
 2. Are people dying less?
 3. Are people vaccinated?
 4. Who is most vulnerable right now?
